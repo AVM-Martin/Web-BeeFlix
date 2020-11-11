@@ -29,8 +29,8 @@ A simple website-based application to show a list of movies based on its genre, 
 
 Here is a list of accessed references during the development phase
 
-  * [Laravel Blade Documentation] https://laravel.com/docs/7.x/blade
-  * [Bootstrap Full Documentation] https://getbootstrap.com/docs/4.5/getting-started/introduction/
+  * [Laravel Blade Documentation](https://laravel.com/docs/7.x/blade)
+  * [Bootstrap Full Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 
 Here is a list of content (art, description, rating, etc) sources that are crawled from another website
