@@ -35,33 +35,33 @@ Here is a list of accessed references during the development phase
 
 Here is a list of content (art, description, rating, etc) sources that are crawled from another website
 
-  * https://mydramalist.com/53361-boku-dake-ga-17-sai-no-sekai-de
-  * https://mydramalist.com/51965-koi-wa-tsuzuku-yo-doko-made-mo
-  * https://mydramalist.com/6535-itazura-na-kiss-love-in-tokyo
-  * https://mydramalist.com/36269-doctor-playbook
-  * https://mydramalist.com/49865-psycho-but-it-s-okay
-  * https://mydramalist.com/22624-wise-prison-life
-  * https://mydramalist.com/2-1-litre-no-namida
-  * https://mydramalist.com/8507-boku-no-ita-jikan
-  * https://mydramalist.com/40-liar-game
+  * [Boku Dake ga 17-sai no Sekai de](https://mydramalist.com/53361-boku-dake-ga-17-sai-no-sekai-de)
+  * [Koi wa Tsuzuku yo Doko Made mo](https://mydramalist.com/51965-koi-wa-tsuzuku-yo-doko-made-mo)
+  * [Itazura na Kiss: Love in Tokyo](https://mydramalist.com/6535-itazura-na-kiss-love-in-tokyo)
+  * [Hospital Playlist](https://mydramalist.com/36269-doctor-playbook)
+  * [It's Okay to Not Be Okay](https://mydramalist.com/49865-psycho-but-it-s-okay)
+  * [Prison Playbook](https://mydramalist.com/22624-wise-prison-life)
+  * [1 Litre no Namida](https://mydramalist.com/2-1-litre-no-namida)
+  * [Boku no Ita Jikan](https://mydramalist.com/8507-boku-no-ita-jikan)
+  * [Liar Game](https://mydramalist.com/40-liar-game)
 
-  * https://myanimelist.net/anime/523/Tonari_no_Totoro
-  * https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon
-  * https://myanimelist.net/anime/3962/Chocolate_Underground
-  * https://myanimelist.net/anime/35777/Rilakkuma_to_Kaoru-san
-  * https://myanimelist.net/anime/2947/Ojamajo_Doremi_Sharp_Movie
-  * https://myanimelist.net/anime/2948/Motto_Ojamajo_Doremi__Kaeru_Ishi_no_Himitsu
-  * https://myanimelist.net/anime/10534/Doraemon_Movie_31__Shin_Nobita_to_Tetsujin_Heidan_-_Habatake_Tenshi-tachi
-  * https://myanimelist.net/anime/34514/Pokemon_Generations
-  * https://myanimelist.net/anime/40351/Pokemon_2019
+  * [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
+  * [Stand By Me Doraemon](https://myanimelist.net/anime/21469/Stand_By_Me_Doraemon)
+  * [Chocolate Underground](https://myanimelist.net/anime/3962/Chocolate_Underground)
+  * [Rilakkuma to Kaoru-san](https://myanimelist.net/anime/35777/Rilakkuma_to_Kaoru-san)
+  * [Ojamajo Doremi Sharp Movie](https://myanimelist.net/anime/2947/Ojamajo_Doremi_Sharp_Movie)
+  * [Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu](https://myanimelist.net/anime/2948/Motto_Ojamajo_Doremi__Kaeru_Ishi_no_Himitsu)
+  * [Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi](https://myanimelist.net/anime/10534/Doraemon_Movie_31__Shin_Nobita_to_Tetsujin_Heidan_-_Habatake_Tenshi-tachi)
+  * [Pokemon Generations](https://myanimelist.net/anime/34514/Pokemon_Generations)
+  * [Pokemon (2019)](https://myanimelist.net/anime/40351/Pokemon_2019)
 
-  * https://mydramalist.com/25743-exo-s-showtime
-  * https://mydramalist.com/26034-the-culprit-is-you
-  * https://mydramalist.com/25626-hyori-s-bed-and-breakfast
-  * https://mydramalist.com/25620-produce-101-season-2
-  * https://mydramalist.com/2205-hana-yori-dango-special
-  * https://mydramalist.com/25817-run-bts-season-1
-  * https://mydramalist.com/29228-busted-2
+  * [EXO's Showtime](https://mydramalist.com/25743-exo-s-showtime)
+  * [Busted](https://mydramalist.com/26034-the-culprit-is-you)
+  * [Hyori's Bed And Breakfast](https://mydramalist.com/25626-hyori-s-bed-and-breakfast)
+  * [Produce 101: Season 2](https://mydramalist.com/25620-produce-101-season-2)
+  * [Hana yori Dango 2 (Returns) Bangai hen: Makinoke Hajimete no Kazoku Ryoko in N.Y.](https://mydramalist.com/2205-hana-yori-dango-special)
+  * [Run BTS! Season 1](https://mydramalist.com/25817-run-bts-season-1)
+  * [Busted 2](https://mydramalist.com/29228-busted-2)
 
 <hr/>
 
